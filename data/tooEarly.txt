@@ -1,0 +1,12 @@
+2
+08:00 12:00
+60
+07:50 1 early
+08:01 1 early          
+08:02 1 early    
+08:03 2 early 1   
+08:04 1 guest
+08:04 2 guest 1        
+08:05 2 guest 1         
+08:06 3 guest      
+08:15 4 early
